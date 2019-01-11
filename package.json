@@ -1,0 +1,30 @@
+{
+  "name": "web-scraping-puppeteer-nodejs-javascript",
+  "version": "1.0.0",
+  "description": "This is sample Test Automation framework designed using Puppeteer and JavaScript",
+  "homepage": "https://github.com/qaloop/web-scraping-puppeteer-nodejs-javascript",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18"
+  },
+  "keywords": [
+    "puppeteer",
+    "javascript",
+    "nodejs",
+    "angular",
+    "angularjs",
+    "vscode",
+    "web scraping",
+    "testing",
+    "automation testing"
+  ],
+  "author": "QA Loop",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qaloop/web-scraping-puppeteer-nodejs-javascript.git"
+  }
+}
