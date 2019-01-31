@@ -1,7 +1,7 @@
-![Protractor, Jasmine and Typescript](./images/web-scraping-puppeteer-nodejs-javascript.png?raw=true "Protractor, Jasmine and Typescript")
+![Web Scraping using Puppeteer, NodeJS, JavaScript](./images/web-scraping-puppeteer-nodejs-javascript.png?raw=true "Web Scraping using Puppeteer, NodeJS, JavaScript")
 
-# Protractor, Jasmine and Typescript Setup Guide
-This is Test Automation framework designed using Protractor, Jasmine and TypeScript
+# Web Scraping using Puppeteer, NodeJS, JavaScript Setup Guide
+This is Web Scraping framework designed using Puppeteer, NodeJS, JavaScript
 
 ## To Get Started
 
