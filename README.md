@@ -6,10 +6,8 @@ This is Web Scraping framework designed using Puppeteer, NodeJS, JavaScript
 ## To Get Started
 
 ### Pre-requisites
-* Download and install Node.js:
-  * [Install Node.JS](https://qaloop.tk/blog/install-node-js/ "Install Node.JS")
-* Optional - Download and install any Text Editor like Visual Code/Sublime/Brackets
-  * [Install Visual Studio Code](https://qaloop.tk/blog/install-visual-studio-code/ "Install Visual Studio Code")
+* Download and install Node.js
+* Download and install any Text Editor like Visual Code/Sublime/Brackets
 
 ### Setup Scripts 
 * Clone the repository into a folder
@@ -24,8 +22,3 @@ This is Web Scraping framework designed using Puppeteer, NodeJS, JavaScript
 
 ### Sample Test Results
 ![Test Results](./images/test-results.png?raw=true "Test Results")
-
-## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/web-scraping-using-puppeteer-nodejs-javascript/ "Step by Step installation instruction for Beginners")
-
-
-## Visit my [Blog](https://qaloop.tk/blog/ "Blog")
