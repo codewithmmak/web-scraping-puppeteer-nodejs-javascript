@@ -5,7 +5,7 @@
   "homepage": "https://github.com/qaloop/web-scraping-puppeteer-nodejs-javascript",
   "main": "index.js",
   "dependencies": {
-    "puppeteer": "^15.1.0"
+    "puppeteer": "^19.0.0"
   },
   "devDependencies": {
     "@types/node": "^18.0.0"
